@@ -20,3 +20,5 @@ I have developed an Employee Management System that allows you to manage employe
 💡 I tested all CRUD functionalities using Postman to ensure smooth API interactions. This project is great for understanding backend API development and database connectivity.
 
 https://www.linkedin.com/posts/sridhar-raj-p_springboot-java-employeemanagementsystem-activity-7312759749349896192-qzft?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEXrcQByV3vNj7A7p8kwdbBTeNMopB0wy8
+
+Blog Link - https://www.linkedin.com/pulse/employee-management-system-using-spring-boot-sridhar-raj-p-ns7mc/?trackingId=cpvfN241R9usKbhfxGKHAg%3D%3D
